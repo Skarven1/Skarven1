@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skarven1
 - 👀 I’m interested in computer games, politics, programming and history
-- 🌱 I’m currently learning bachelor programming course
+- 🌱 I’m currently working at a grocery store and learning python/InfoSec
 - 💞️ I’m looking to collaborate on basic learning programming projects
 - 📫 How to reach me ...
 
